@@ -4,4 +4,11 @@
 
 }
 
+.left {
+    color: white;
+    background-color: black;
+}
 
+.right {
+    background-color: yellow;
+}
